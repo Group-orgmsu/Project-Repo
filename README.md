@@ -10,11 +10,10 @@
 
 ### Description
 
-[llows the user to view Foreign/U.S. and crypto currency market information in real time. The user will be able to view Crypto Currencies, U.S. stock info, and foreign stock prices and information in different screens as well as top trending crypto currencies and companies to trade.]
+Allows the user to view Foreign/U.S. and crypto currency market information in real time. The user will be able to view Crypto Currencies, U.S. stock info, and foreign stock prices and information in different screens as well as top trending crypto currencies and companies to trade.
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Productivity
 - **Mobile:** Mobility is critical for this application as it uses real time APIs and being able to view, buy, and sell on the market whenever you want and wherever is important. 
 - **Story:** Crypto and stock traders are able to seamlessly view stocks and crypto currencies prices and trends. Allows the user to view information in real time and get the most updated data on where their assets stand.
@@ -69,7 +68,6 @@
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
