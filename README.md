@@ -37,7 +37,11 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 **Stretch Features**
 
 * [fill in your optional user features here]
-* ...
+* Compare Stocks
+* View Graphs
+* Save portfolio
+* Login
+* Buy and Sell
 
 ### 2. Screen Archetypes
 
@@ -59,12 +63,14 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- International Stocks Screen
+  - View of Stock Information
+- Crypto Screen
+  - View of Stock Information
+- US MARKET
+  - View of Stock Information
+- Trending
+  - View of Stock Information
 
 ## Wireframes
 
