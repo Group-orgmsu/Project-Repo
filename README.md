@@ -44,7 +44,7 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 ### 2. Screen Archetypes
 
-- International Stocks
+- International Exchange
   - A screen to look at the Internationalcurrencies and their exchange rate
 - Crypto
   - A screen to look at the crypto options offered by the API
@@ -58,7 +58,7 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 **Tab Navigation** (Tab to Screen)
 
-* International Stocks
+* International Exchange
 * Crypto
 * U.S. Market
 * Top/Trending Stocks & Crypto
