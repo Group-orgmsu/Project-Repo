@@ -29,8 +29,11 @@
 
 **Required Features**
 
-* [fill in your required user features here]
-* ...
+* [User can view U.S. Stocks]
+* [User can view International Stocks]
+* [User can view Crypto Currencies]
+* [User can view Trending stocks/crypto]
+
 
 **Stretch Features**
 
@@ -50,9 +53,10 @@
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [International Stocks]
+* [Crypto]
+* [U.S. Market]
+* [Top/Trending Stocks & Crypto]
 
 **Flow Navigation** (Screen to Screen)
 
