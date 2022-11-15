@@ -10,7 +10,7 @@
 
 ### Description
 
-Allows the user to view Foreign/U.S. and crypto currency market information in real time. The user will be able to view Crypto Currencies, U.S. stock info, and foreign stock prices and information in different screens as well as top trending crypto currencies and companies to trade.
+Allows the user to view Foreign/U.S. and crypto currency market information in real time. The user will be able to view Crypto Currencies, U.S. stock info, and foreign stock prices and information in different screens as well as top trending crypto currencies and companies to trade. Using different APIs will allow us to display data to the user in each screen.
 
 ### App Evaluation
 
