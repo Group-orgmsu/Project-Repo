@@ -1,4 +1,4 @@
-# Milestone 1 - APP_NAME_HERE
+# Milestone 1 - Stocks and Cons
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ### Description
 
-[Description of your app]
+[llows the user to view Foreign/U.S. and crypto currency market information in real time. The user will be able to view Crypto Currencies, U.S. stock info, and foreign stock prices and information in different screens as well as top trending crypto currencies and companies to trade.]
 
 ### App Evaluation
 
