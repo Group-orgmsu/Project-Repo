@@ -28,15 +28,14 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 **Required Features**
 
-* [User can view U.S. Stocks]
-* [User can view International Stocks]
-* [User can view Crypto Currencies]
-* [User can view Trending stocks/crypto]
+* User can view U.S. Stocks
+* User can view International Stocks
+* User can view Crypto Currencies
+* User can view Trending stocks/crypto
 
 
 **Stretch Features**
 
-* [fill in your optional user features here]
 * Compare Stocks
 * View Graphs
 * Save portfolio
@@ -56,10 +55,10 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 **Tab Navigation** (Tab to Screen)
 
-* [International Stocks]
-* [Crypto]
-* [U.S. Market]
-* [Top/Trending Stocks & Crypto]
+* International Stocks
+* Crypto
+* U.S. Market
+* Top/Trending Stocks & Crypto
 
 **Flow Navigation** (Screen to Screen)
 
