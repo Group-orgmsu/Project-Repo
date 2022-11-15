@@ -69,7 +69,7 @@
 <img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
+<img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/Screenshot%202022-11-14%20232248.png" width=600>
 
 ### [BONUS] Interactive Prototype
 <img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/stock.gif" width=600>
