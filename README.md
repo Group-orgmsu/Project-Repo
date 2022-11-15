@@ -44,12 +44,15 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- International Stocks
+  - A screen to look at the International Stocks offered by the API
+- Crypto
+  - A screen to look at the crypto options offered by the API
+- U.S. Market
+  - A screen to look at the U.S. Market Stocks offered by the API
+- Trending
+  - A screen to look at the trending Stocks and coins
+
 
 ### 3. Navigation
 
