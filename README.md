@@ -15,12 +15,13 @@
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Productivity
+- **Mobile:** Mobility is critical for this application as it uses real time APIs and being able to view, buy, and sell on the market whenever you want and wherever is important. 
+- **Story:** Crypto and stock traders are able to seamlessly view stocks and crypto currencies prices and trends. Allows the user to view information in real time and get the most updated data on where their assets stand.
+- **Market:** Within the last few years, crypto has been bigger than its ever been before, meaning the market is extremely large. People from all around the world buy, sell, and trade crypto daily meaning there is a constant need for trading applications.
+- **Habit:** The frequency of use from a user depends on the person. For example, someone who makes a living investing in crypto might use this app daily and constantly throughout their day, while someone who casually trades or has just started would use it perhaps once or twice a week. The average user would typically consume using this application, as there is no way to upload or edit data, only viewing of data.
+- **Scope:** On a scale of 1 to 10, we would say the technical challenge of this app would be a 7. This is because we would be using several different APIs at the same time and would need to take into the consideration of physical hardware capabilities of the end users device.
+
 
 ## Product Spec
 
