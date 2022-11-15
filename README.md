@@ -72,3 +72,5 @@
 <img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
 
 ### [BONUS] Interactive Prototype
+<img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/stock.gif" width=600>
+
