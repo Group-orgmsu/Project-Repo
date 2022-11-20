@@ -1,4 +1,4 @@
-# Milestone 1 - Stocks and Cons
+# Milestone 1 - Stocks and Coins
 
 ## Table of Contents
 
