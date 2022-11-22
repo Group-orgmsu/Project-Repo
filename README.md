@@ -7,7 +7,7 @@
 1. [Wireframes](#Wireframes)
 
 ## Overview
-User Story [x]
+[x] User Story
 - Sprints:
   - Complete UI
   - ADD API
