@@ -74,14 +74,14 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 - Trending
   - View of Stock Information
 
-## Wireframes
-
-<img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
-
 ## User Sory
 - User can open app to look at prices of stocks and their gain or loss
 - User can Look at different foreign exchange options
 - User can look at crypto Coin options
+
+## Wireframes
+
+<img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/IMG_5653.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src="https://github.com/Group-orgmsu/Project-Repo/blob/main/Screenshot%202022-11-14%20232248.png" width=600>
