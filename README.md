@@ -8,9 +8,9 @@
 
 ## Overview
 User Story [x]
-Sprints:
-- Complete UI
-- ADD API
+-Sprints:
+  - Complete UI
+  - ADD API
 
 ### Description
 
