@@ -79,7 +79,7 @@ Allows the user to view Foreign/U.S. and crypto currency market information in r
 - Trending
   - View of Stock Information
 
-## User Sory
+## User Story
 - User can open app to look at prices of stocks and their gain or loss
 - User can Look at different foreign exchange options
 - User can look at crypto Coin options
